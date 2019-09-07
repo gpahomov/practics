@@ -5,7 +5,7 @@
 
 int main(void) {
 	char title1[6], title2[9], title3[10];   
-	char* performance1, performance2, performance3;                  
+	char performance1[9], performance2[9], performance3[9];                  
 	int kolvo1, kolvo2, kolvo3;          
 	int price1, price2, price3;                
 	printf("1. Enter: product name, product performance, product kolvo, product pr >"); 
